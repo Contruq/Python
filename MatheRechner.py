@@ -664,7 +664,7 @@ def PunkteCheck():
     elif fehler == 1:
         print(f"Sehr gut! Du hast leider eine Aufgabe von 14 falsch bearbeitet.")
     elif fehler == 14:
-        print(f"Uff... Du hast bei jeder Aufgabe einen Fehler gemacht! Lern weiter und mach Herr Markmann stolz")
+        print(f"Uff... Du hast bei jeder Aufgabe einen Fehler gemacht! Lern weiter und mach Herr M. stolz")
     elif fehler == 2:
         print(f"Toll! du hast die hälfte der Aufgaben richtig bearbeitet, mach dir nichts drauß und lern weiter!")
     else:
